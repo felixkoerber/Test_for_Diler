@@ -1,6 +1,6 @@
 # Intro 
 
-### Adapt the template to your liking!
+## Adapt the template to your liking!
 
 
 In the first block of this course we will focus on X
